@@ -1,0 +1,12 @@
+{
+  "site_msk": {
+    "phone": "+7 (495) 000-00-00",
+    "email": "msk@example.com",
+    "address": "г. Москва, Красная площадь"
+  },
+  "site_spb": {
+    "phone": "+7 (812) 111-11-11",
+    "email": "spb@example.com",
+    "address": "г. Санкт-Петербург, Невский пр."
+  }
+}
